@@ -63,6 +63,6 @@ The available configurations are:
 If you need to extend some other configuration file, refer to base/entrypoint.sh bash script.
 
 ## Tableau Integration
-Download Tableau from https://www.tableau.com/
-Drag and drop the file from /flight-analysis/Outputs/ in the interface
+Download Tableau from https://www.tableau.com/ <br />
+Drag and drop the file from /flight-analysis/Outputs/ in the interface <br />
 <img src='./flight-analysis/Tablue.png' alt='Tablue Dashboard'>
